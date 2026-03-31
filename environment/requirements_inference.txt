@@ -1,0 +1,12 @@
+transformers==4.57.3
+accelerate
+safetensors
+huggingface_hub
+pillow
+matplotlib
+opencv-python
+numpy
+pandas
+tqdm
+scikit-image
+pycocotools

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+outputs/
+logs/
+data/
+.env
+*.ipynb_checkpoints
+
+# Local dataset download configs (may contain private tokens)
+third_party/scannetpp_download/download_scannetpp.local.yml
